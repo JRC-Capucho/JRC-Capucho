@@ -1,6 +1,6 @@
 ### Oi, Eu sou o João 👋
 
-- 💻 Estudando C#, PHP, HTML, CSS.
+- 💻 Estudando PHP, HTML, CSS, NODEJS.
 - 🧑🏼 Sou estudande da Fatec Cruzeiro, estou cursando Análise e desenvolvimento de Sistemas.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRC-Capucho&theme=vision-friendly-dark&count_private=true&show_icons=true&locale=pt-BR)](https://github.com/JRC-Capucho)
