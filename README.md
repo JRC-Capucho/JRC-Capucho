@@ -49,5 +49,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: SEU NOME](<https://img.shields.io/badge/-João Roberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-roberto-c-capucho>)](https://www.linkedin.com/in/joao-roberto-c-capucho)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorobertoc.capucho@gmail.com)](mailto:joaorobertoc.capucho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaorobertoc.capucho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaorobertoc.capucho@gmail.com)](mailto:joaorobertoc.capucho@gmail.com)
 [![GitHub SEU NOME](https://img.shields.io/github/followers/JRC-Capucho?label=follow&style=social)](https://github.com/JRC-Capucho)
