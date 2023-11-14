@@ -1,7 +1,7 @@
 <h3>  &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="http://fateccruzeiro.edu.br">Fatec Cruzeiro</a>.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fateccruzeiro.edu.br">Fatec Cruzeiro</a>.
 - 💼 &nbsp; Trabalhando como **Estagiário** na <a href="https://www.plusintelligence.com.br">Plus Intelligence</a>
 - 🌱 &nbsp; Aprendendo mais sobre **AWS Amazon Web Services**.
 
