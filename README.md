@@ -68,3 +68,4 @@
 <img src="https://raw.githubusercontent.com/JRC-Capucho/JRC-Capucho/output/snake.svg" alt="Snake animation" />
 
 ###
+
